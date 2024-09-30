@@ -5,7 +5,7 @@
 
 ### Registration
 
-> [!calendar]  Registration for FSTTCS 2024 will open on **5th October 2024**. 
+> [!check]  Registration for FSTTCS 2024 will open on **5th October 2024**. 
 
 > [!danger] Please note that registrations are not refundable. 
 
@@ -28,4 +28,5 @@ Registration costs for the workshops, in Indian Rupees (INR), exclusive of taxes
 | [Milestones and Motifs in the Theory of <br>Proofs, Algebraic Computation, and Lower Bounds](https://mmcomplexity.github.io/) | ₹ 3,500                         | ₹ 5,000                      |
 | [Workshop on Algorithmic Mechanism Design](http://www.tcs.tifr.res.in/~amd-24)                                                | ₹ 3,500                         | ₹ 5,000                      |
 | Automata and Games for Synthesis                                                                                              | ₹ 2,500                         | ₹ 4,000                      |
+
 While we have a combined registration form for all events, if you decide to register for a workshop later, it will be possible to do so. 
