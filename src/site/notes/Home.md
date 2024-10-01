@@ -23,7 +23,7 @@ This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2
 > - Early Bird Registration Deadline: **15th November 2024** (AoE)
 > - Final Registration Deadline: **13th December 2024** (AoE)
 
-> [!Tip]- Workshops
+> [!TLDR]- Workshops
 > 
 > - [Milestones and Motifs in the Theory of Proofs, Algebraic Computation, and Lower Bounds](https://mmcomplexity.github.io/)  
 >     **Dates:** December 14 – 15, 2024  
