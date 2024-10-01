@@ -26,7 +26,7 @@ body, p, a, .callout-title-inner, li {
 }
 
 .callout[data-callout="home"] {
-  --callout-color: 228, 227, 244;
+  --callout-color: 160, 120, 250;
   --callout-icon: lucide-home;
 }
 
