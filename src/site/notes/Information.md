@@ -2,16 +2,28 @@
 {"dg-publish":true,"dg-path":"intel","permalink":"/intel/"}
 ---
 
-
-
 ### General Information
-
 
 The venue of the conference is the Indian Institute of Technology, Gandhinagar, usually referred to as IIT Gandhinagar or IITGN, and not to be confused with IITG :) On this page, you will find more information about the venue, local attractions, and general logistics. 
 
 Please don't hesitate to reach out if you have any questions! The best email for general inquiries is `fsttcs2024@gmail.com` with a CC to `neeldhara.m@iitgn.ac.in`.
 
-> [!TLDR]- Accommodation 
+> [!home]- Accommodation for Students
+> 
+> A limited number of rooms are available in the hostels on campus or in a nearby residency. These rooms will be shared. The *approximate* cost of the room is Rs. 300/day. 
+> 
+> The conference registration covers lunch on all days, and three coffee breaks. Depending on your situation, you may interpret the first coffee break as a late and light breakfast. 
+> 
+> The student mess serves breakfast, lunch, snacks, and dinner as per the following schedule and (walk-in) rates:
+> 
+> 1. Breakfast: 07:30 AM to 09:30 AM (Mon-Fri) & 08:00 AM to 10:00 AM (Sat/Sun); INR 50
+> 2. Lunch: 12:15 PM - 2:15 PM; INR 70
+> 3. Snacks: 04.30 PM - 06.00 PM; INR 35
+> 4. Dinner: 07.30 PM - 09.30 PM; INR 70
+>    
+> You can fill out this form to indicate your interest in reserving a hostel room. Please note that availability is limited and requests will be processed first-come, first-serve.
+
+> [!home]- Guest House and Hotel Accommodation
 > 
 > There are two accommodation options offered by the organizers on a first-come, first-serve basis. We detail both options below, noting that participants are encouraged to book sooner than later since availability is limited. International participants would have to be prepared to fill out some additional forms on arrival.
 > 
@@ -42,8 +54,7 @@ Please don't hesitate to reach out if you have any questions! The best email for
 > 	
 > 	The conference rate at the hotel is Rs. 5000/- per day inclusive of taxes and breakfast. The default check-in and check-out times are 02.00 P.M and 12.00 Noon, respectively. Availability at these rates is limited. 
 
-
-> [!TLDR]- For International Participants
+> [!globe]- For International Participants
 >
 > If you are applying for a conference visa, and you need supporting documents from conference organizers, please fill out [this form]().
 > 
@@ -67,7 +78,7 @@ Please don't hesitate to reach out if you have any questions! The best email for
 >
 > If you have a good reason to use your own laptop for the presentation (e.g, fonts available only locally or a Keynote presentation that does not convert well to PPT or PDF), then please carry appropriate connectors if your laptop does not have a HDMI port. It is recommended that you test your setup at least one break in advance of the session that your talk is in. Please ping the session chair or any of the volunteers for help with this.
 
-> [!TLDR]- Reaching IIT Gandhinagar
+> [!travel]- Reaching and Leaving IIT Gandhinagar
 > 
 > - Sardar Vallabhbhai Patel International Airport (AMD) is an international airport serving the cities of Ahmedabad and Gandhinagar in Gujarat, India and is a 30-minute drive from IIT Gandhinagar.
 > - Ahmedabad Junction Railway Station (ADI), locally known as Kalupur station is the main terminus which is very well connected with the other parts of the country.
@@ -80,7 +91,6 @@ Please don't hesitate to reach out if you have any questions! The best email for
 > The campus security will have intel about all registered participants, so you should face no hassles coming in, although there is a small ritual of signing in at the gate.
 >   
 > Please see [this page](https://iitgn.ac.in/about/faq) for more details about reaching IITGN and [this page](https://campus.iitgn.ac.in/) for general information about the IIT Gandhinagar campus. 
-
 
 > [!info]- About the IIT Gandhinagar Campus
 > 
@@ -96,6 +106,8 @@ Please don't hesitate to reach out if you have any questions! The best email for
 > If you can find the time, feel free to explore the campus during your visit! There are also two EECO shuttles that go around the main areas of the campus every 15 minutes. You can find the schedule [here](https://campus.iitgn.ac.in/facility/document/EECO_Shuttle_Schedule_and_Route.pdf) and you can typically ask the security folks at the gate for any help you need in identifying these vehicles. 
 >
 > It is generally a very walkable campus, especially in December, when heat and rain don't get in the way of a good walk. Although we don't have cycle rentals on campus, you can let us know if you would like to borrow one, and we might be able to source something for you informally.
+> 
+> The campus is also generally wheelchair friendly. [Here is a video](https://www.facebook.com/iitgn.official/videos/campus-feature-wheelchair-friendly-campus-of-iitgn/2403844746569835/) emphasizing this aspect of the campus and [here is a blog](https://news.iitgn.ac.in/disabled-friendly-iitgn-campus-tete-a-tete-with-amit-srivastava/) about a personal experience.
 > 
 > The medical facilities are in the central arcade. The regular number is 079-2395-1116 and the emergency contact is +91-7069795000 (Emergency number). You can find out more about the medical center [here](https://iitgn.ac.in/medicalcenter).
 > 
@@ -139,10 +151,9 @@ Please don't hesitate to reach out if you have any questions! The best email for
 >
 > Alcoholic drinks are strictly prohibited on campus, both as a matter of campus policy and state law. Smoking is also forbidden in public places.
 
-> [!TLDR]- For Parents
+> [!baby]- For Parents
 > 
 > We do have a day care facility on campus which can be availed on request. Kids are welcome to be at any of the talks or socials as well. If you need a volunteer to help out in real-time, please reach out to us!
-
 
 > [!example]- Local Attractions
 >
