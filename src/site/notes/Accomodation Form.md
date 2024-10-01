@@ -2,4 +2,4 @@
 {"dg-publish":true,"dg-path":"accomodation","permalink":"/accomodation/"}
 ---
 
-<iframe style="border:none;width:100%;" id="information-from-international-participants-s5kuxu" src="https://opnform.com/forms/information-from-international-participants-s5kuxu"></iframe><script type="text/javascript" onload="initEmbed('information-from-international-participants-s5kuxu')" src="https://opnform.com/widgets/iframe.min.js"></script>
+<iframe style="border:none;width:100%;" id="fsttcs-2024-accommodation-request-form-tvztsp" src="https://opnform.com/forms/fsttcs-2024-accommodation-request-form-tvztsp"></iframe><script type="text/javascript" onload="initEmbed('fsttcs-2024-accommodation-request-form-tvztsp')" src="https://opnform.com/widgets/iframe.min.js"></script>

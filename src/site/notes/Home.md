@@ -6,8 +6,18 @@
 
 This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2024/), which will be hosted at [IIT Gandhinagar](https://www.iitgn.ac.in) between December 16–18, 2024. On this page, you will find more information about local arrangements and important announcements. 
 
+
+> [!globe] International Participants
+> 
+> Please see [[International\|this page]] for more information regarding visas and fill out [[Visa\|the form here]] to apply for an invitation letter and a letter of clearance from the Indian Ministry of External Affairs. 
+> 
+> _Please fill out this form by the 9th of October (midnight, AoE)._ 
+> 
+> Invitation letters from the organizers will be sent out by the 11th of October.
+> The Ministry clearance letter will be sent as soon as the organizers recieve it. 
+
 > [!Calendar] Important Dates
-> - Invitation Requests for Visa Applications: **10 October 2024** (please fill this form)
+> - [[International\|Invitation Requests for Visa Applications]]: **10 October 2024** 
 > - Early Bird Registration Deadline: **15th November 2024**
 > - Final Registration Deadline: **13th December 2024**
 
@@ -26,11 +36,11 @@ This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2
 > 
 > There are three forms relevant to registration:
 > 
-> 1. The main registration form: this form will be available from the 5th of October. The registration fees are outlined [[Registration\|here]]. You can use this form to register for the conference and associated workshops. If you would like to sign up for a workshop separately later, that will be possible to do as well.
+> 1. The main registration form: this form will be available from the 7th of October. The registration fees are outlined [[Registration\|here]]. You can use this form to register for the conference and associated workshops. If you would like to sign up for a workshop separately later, that will be possible to do as well.
 >    
-> 2. The accommodation request form: if you would like to reserve a room at the guest house or our partner hotel, please use [this form](https://opnform.com/forms/fsttcs-2024-accommodation-request-form-tvztsp) to indicate as much. Students may use [the same form](https://opnform.com/forms/fsttcs-2024-accommodation-request-form-tvztsp) to indicate a request for a shared hostel room, which will be offered based on availability. Information about rates associated with various accommodation options is available [[Information\|here]].
+> 2. The accommodation request form: if you would like to reserve a room at the guest house or our partner hotel, please use [[Accomodation Form\|this form]]. Students can use [[Accomodation Form\|the same form]] to indicate a request for a shared hostel room, which will be offered based on availability. Information about rates associated with various accommodation options is available [[Information\|here]].
 >    
-> 3. For international participants: when applying for a conference visa to India, you would need an invitation letter from the conference organizers and a ministry clearance document. To generate these documents, we will need some details, so we request you fill out [this form]() ASAP, and in any case no later than 10th October 2024.
+> 3. For international participants: when applying for a conference visa to India, you would need an invitation letter from the conference organizers and a ministry clearance document. To generate these documents, we will need some details, so we request you fill out [[Visa\|this form]] ASAP, and in any case no later than 10th October 2024.
 >    
 
 > [!check] Spread the word!
