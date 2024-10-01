@@ -5,9 +5,9 @@
 
 ### Registration
 
-> [!calendar]  Registration for FSTTCS 2024 will open on **5th October 2024**. 
+> [!calendar]  Registration for FSTTCS 2024 will open on **7th October 2024**. 
 
-> [!danger] Please note that registrations are not refundable. 
+> [!danger] Please note that registrations are not refundable or transferable.
 
 Registration costs, in Indian Rupees (INR), exclusive of taxes and markup fees are given in the table below. 
 

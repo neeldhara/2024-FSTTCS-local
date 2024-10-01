@@ -6,7 +6,6 @@
 
 This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2024/), which will be hosted at [IIT Gandhinagar](https://www.iitgn.ac.in) between December 16–18, 2024. On this page, you will find more information about local arrangements and important announcements. 
 
-
 > [!globe] International Participants
 > 
 > Please see [[International\|this page]] for more information regarding visas and fill out [[Visa\|the form here]] to apply for an invitation letter and a letter of clearance from the Indian Ministry of External Affairs. 
@@ -18,6 +17,7 @@ This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2
 
 > [!Calendar] Important Dates
 > - [[International\|Invitation Requests for Visa Applications]]: **10 October 2024** 
+> - Registrations Open: **7th October 2024**
 > - Early Bird Registration Deadline: **15th November 2024**
 > - Final Registration Deadline: **13th December 2024**
 
@@ -54,4 +54,29 @@ This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2
 >    
 >  If you would like to circulate an email announcement, please use the text [[Email CfP\|on this page]].
 
+> [!tip] Contact
+> 
+> You can reach out to any of the organizers with specific inquiries as indicated below, or post a question [[Helpdesk\|on the helpdesk page]] if you think it is broadly relevant, or email `fsttcs2024@gmail.com`.
+> 
+> 1. [Abhishek Bichhawat](https://iitgn.ac.in/faculty/cse/abhishek) `abhishek.b -AT- iitgn.ac.in`
+>    *(for queries on international participant support)*
+>    
+> 2. [Bireswar Das](https://iitgn.ac.in/faculty/cse/bireswar), `bireswar -AT- iitgn.ac.in`   
+>    *(for queries related to being a volunteer at FSTTCS)*
+>    
+> 3. [Anirban Dasgupta](https://iitgn.ac.in/faculty/cse/anirban) `anirbandg -AT- iitgn.ac.in`
+>    *(for queries related to the Young Investigators Meet)*
+>    
+> 4. [Manoj Gupta](https://iitgn.ac.in/faculty/cse/manoj) `gmanoj -AT- iitgn.ac.in`
+>    *(for queries related to workshop and student accommodation logistics)*
+>    
+> 5. [Balagopal Komarath](https://iitgn.ac.in/faculty/cse/balagopal) `bkomarath -AT- iitgn.ac.in`
+>    *(for queries related to registration and guest house/hotel accommodation)*
+>    
+> 6. [Neeldhara Misra](https://iitgn.ac.in/faculty/cse/neeldhara) `neeldhara.m -AT- iitgn.ac.in`
+>    *(for any general queries)*
+>    
+> 7. [Manisha Padala](https://iitgn.ac.in/faculty/cse/manisha) `manisha.padala -AT- iitgn.ac.in`
+>    *(for queries related to food arrangements)*
+> 
 
