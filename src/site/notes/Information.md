@@ -155,7 +155,7 @@ Please don't hesitate to reach out if you have any questions! The best email for
 
 > [!baby]- For Parents
 > 
-> We do have a day care facility on campus which can be availed on request. Kids are welcome to be at any of the talks or socials as well. If you need a volunteer to help out in real-time, please reach out to us!
+> IIT Gandhinagar has a day care facility on campus which can be availed on request. Kids are welcome to be at any of the talks or socials as well. If you need a volunteer to help out in real-time, please reach out to us!
 
 > [!example]- Local Attractions
 >
