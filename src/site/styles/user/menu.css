@@ -20,10 +20,29 @@ body, p, a, .callout-title-inner, li {
   --callout-icon: lucide-book;
 }
 
-
 .callout[data-callout="calendar"] {
   --callout-color: 227, 184, 218;
   --callout-icon: lucide-calendar;
+}
+
+.callout[data-callout="home"] {
+  --callout-color: 227, 184, 218;
+  --callout-icon: lucide-home;
+}
+
+.callout[data-callout="travel"] {
+  --callout-color: 227, 184, 218;
+  --callout-icon: lucide-plane;
+}
+
+.callout[data-callout="baby"] {
+  --callout-color: 227, 184, 218;
+  --callout-icon: lucide-baby;
+}
+
+.callout[data-callout="globe"] {
+  --callout-color: 227, 184, 218;
+  --callout-icon: lucide-globe-2;
 }
 
 @font-face {
