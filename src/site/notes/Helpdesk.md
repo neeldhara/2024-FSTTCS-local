@@ -6,8 +6,9 @@
 
 Questions? Leave a comment below, we will get back to you ASAP!
 
-<script async src="https://talk.hyvor.com/embed/embed.js" type="module"></script>
+<div>
 <hyvor-talk-comments
 	website-id="11978"
 	page-id=""
 ></hyvor-talk-comments>
+</div>
