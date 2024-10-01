@@ -6,6 +6,8 @@
 
 This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2024/), which will be hosted at [IIT Gandhinagar](https://www.iitgn.ac.in) between December 16–18, 2024. On this page, you will find more information about local arrangements and important announcements. 
 
+> [!question] You can post any questions not addressed by the information on this page by leaving a comment on the [[Helpdesk\|helpdesk]] page or by checking the contact information at the bottom of this page.
+
 > [!globe] International Participants
 > 
 > Please see [[International\|this page]] for more information regarding visas and fill out [[Visa\|the form here]] to apply for an invitation letter and a letter of clearance from the Indian Ministry of External Affairs. 
@@ -16,12 +18,12 @@ This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2
 > The Ministry clearance letter will be sent as soon as the organizers recieve it. 
 
 > [!Calendar] Important Dates
-> - [[International\|Invitation Requests for Visa Applications]]: **10 October 2024** 
+> - [[International\|Invitation Requests for Visa Applications]]: **9th October 2024** (AoE)
 > - Registrations Open: **7th October 2024**
-> - Early Bird Registration Deadline: **15th November 2024**
-> - Final Registration Deadline: **13th December 2024**
+> - Early Bird Registration Deadline: **15th November 2024** (AoE)
+> - Final Registration Deadline: **13th December 2024** (AoE)
 
-> [!Tip] Workshops
+> [!Tip]- Workshops
 > 
 > - [Milestones and Motifs in the Theory of Proofs, Algebraic Computation, and Lower Bounds](https://mmcomplexity.github.io/)  
 >     **Dates:** December 14 – 15, 2024  
@@ -32,7 +34,7 @@ This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2
 > - [Workshop on Algorithmic Mechanism Design](http://www.tcs.tifr.res.in/~amd-24)  
 >     **Dates:** December 19 – 20, 2024
 
-> [!Example] Registration Logistics
+> [!Example]- Registration Logistics
 > 
 > There are three forms relevant to registration:
 > 
@@ -40,10 +42,10 @@ This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2
 >    
 > 2. The accommodation request form: if you would like to reserve a room at the guest house or our partner hotel, please use [[Accomodation Form\|this form]]. Students can use [[Accomodation Form\|the same form]] to indicate a request for a shared hostel room, which will be offered based on availability. Information about rates associated with various accommodation options is available [[Information\|here]].
 >    
-> 3. For international participants: when applying for a conference visa to India, you would need an invitation letter from the conference organizers and a ministry clearance document. To generate these documents, we will need some details, so we request you fill out [[Visa\|this form]] ASAP, and in any case no later than 10th October 2024.
+> 3. For international participants: when applying for a conference visa to India, you would need an invitation letter from the conference organizers and letter of clearance from the Ministry of External Affairs. To generate these documents, we will need some details, so we request you fill out [[Visa\|this form]] ASAP, and in any case no later than 9th October 2024 (AoE).
 >    
 
-> [!check] Spread the word!
+> [!check]- Spread the word!
 > 
 > Please help us spread the word about FSTTCS 2024. You can share any/all of the following social media announcements:
 > 
