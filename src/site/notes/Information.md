@@ -21,11 +21,13 @@ Please don't hesitate to reach out if you have any questions! The best email for
 > 3. Snacks: 04.30 PM - 06.00 PM; INR 35
 > 4. Dinner: 07.30 PM - 09.30 PM; INR 70
 >    
-> You can fill out this form to indicate your interest in reserving a hostel room. Please note that availability is limited and requests will be processed first-come, first-serve.
+> Please fill out [this form](https://opnform.com/forms/fsttcs-2024-accommodation-request-form-tvztsp) to indicate your interest in reserving a hostel room. Please note that availability is limited and requests will be processed first-come, first-serve.
 
 > [!home]- Guest House and Hotel Accommodation
 > 
-> There are two accommodation options offered by the organizers on a first-come, first-serve basis. We detail both options below, noting that participants are encouraged to book sooner than later since availability is limited. International participants would have to be prepared to fill out some additional forms on arrival.
+> There are two accommodation options offered by the organizers on a first-come, first-serve basis. We detail both options below, noting that participants are encouraged to book sooner than later since availability is limited. International participants would have to be prepared to fill out some additional forms on arrival. 
+> 
+> Please fill out [this form](https://opnform.com/forms/fsttcs-2024-accommodation-request-form-tvztsp) to indicate your interest in reserving accommodation via one of the two options below. Please note that availability is limited and requests will be processed first-come, first-serve.
 > 
 > _Please note that the exact rates shared below are indicative. That said, they are a reasonable approximation to what you can expect to be charged._
 > 
