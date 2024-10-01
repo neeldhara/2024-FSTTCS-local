@@ -6,7 +6,7 @@
 
 This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2024/), which will be hosted at [IIT Gandhinagar](https://www.iitgn.ac.in) between December 16–18, 2024. On this page, you will find more information about local arrangements and important announcements. 
 
-> [!question] You can post any questions not addressed by the information on this page by leaving a comment on the [[Helpdesk\|helpdesk]] page or by checking the contact information at the bottom of this page.
+> [!question] If you have questions not addressed by the information on this page, please leave a comment on the [[Helpdesk\|helpdesk page]] (recommended) or reach out to us at `fsttcs2024@gmail.com`.
 
 > [!globe] International Participants
 > 
