@@ -31,17 +31,17 @@ body, p, a, .callout-title-inner, li {
 }
 
 .callout[data-callout="travel"] {
-  --callout-color: 236, 229, 225;
+  --callout-color: 238, 140, 65;
   --callout-icon: lucide-plane;
 }
 
 .callout[data-callout="baby"] {
-  --callout-color: 233, 233, 224;
+  --callout-color: 205, 172, 57;
   --callout-icon: lucide-baby;
 }
 
 .callout[data-callout="globe"] {
-  --callout-color: 214, 235, 229;
+  --callout-color: 17, 200, 104;
   --callout-icon: lucide-globe-2;
 }
 
