@@ -2,6 +2,10 @@
   max-width: 750px !important;
 }
 
+body, .navbar{
+  background: white !important;
+}
+
 
 .markdown-embed-link{
   display: none !important;
