@@ -12,7 +12,7 @@ This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2
 > 
 > Please see [[International\|this page]] for more information regarding visas and fill out [[Visa\|the form here]] to apply for an invitation letter and a letter of clearance from the Indian Ministry of External Affairs. 
 > 
-> _Please fill out this form by the 9th of October (midnight, AoE)._ 
+> _Please fill out this form by the 13th of October (midnight, AoE)._ 
 > 
 > Invitation letters from the organizers will be sent out by the 11th of October.
 > The Ministry clearance letter will be sent as soon as the organizers recieve it. 
@@ -20,7 +20,7 @@ This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2
 > [!NOTE] For Authors: after filling out [the registration form](https://events.iitgn.ac.in/apply/application_fsttcs.php?eventid=26092024) as a participant, you can register your paper [[Paper\|here]].
 
 > [!Calendar] Important Dates
-> - [[International\|Invitation Requests for Visa Applications]]: **9th October 2024** (AoE)
+> - [[International\|Invitation Requests for Visa Applications]]: **13th October 2024** (AoE)
 > - Registrations Open: **7th October 2024**
 > - Early Bird Registration Deadline: **15th November 2024** (AoE)
 > - Final Registration Deadline: **13th December 2024** (AoE)
@@ -44,7 +44,7 @@ This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2
 >    
 > 2. The accommodation request form: if you would like to reserve a room at the guest house or our partner hotel, please use [[Accomodation Form\|this form]]. Students can use [[Accomodation Form\|the same form]] to indicate a request for a shared hostel room, which will be offered based on availability. Information about rates associated with various accommodation options is available [[Information\|here]].
 >    
-> 3. For international participants: when applying for a conference visa to India, you would need an invitation letter from the conference organizers and letter of clearance from the Ministry of External Affairs. To generate these documents, we will need some details, so we request you fill out [[Visa\|this form]] ASAP, and in any case no later than 9th October 2024 (AoE). For more information about applying for a visa, please see [[International\|this page]].
+> 3. For international participants: when applying for a conference visa to India, you would need an invitation letter from the conference organizers and letter of clearance from the Ministry of External Affairs. To generate these documents, we will need some details, so we request you fill out [[Visa\|this form]] ASAP, and in any case no later than 13th October 2024 (AoE). For more information about applying for a visa, please see [[International\|this page]].
 >    
 
 > [!tip] Contact
