@@ -17,9 +17,7 @@ This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2
 > Invitation letters from the organizers will be sent out by the 11th of October.
 > The Ministry clearance letter will be sent as soon as the organizers recieve it. 
 
-
-> [!NOTE] For Authors: after filling out the registration form as a participant, you can register your paper [[Paper\|here]].
-
+> [!NOTE] For Authors: after filling out [the registration form](https://events.iitgn.ac.in/apply/application_fsttcs.php?eventid=26092024) as a participant, you can register your paper [[Paper\|here]].
 
 > [!Calendar] Important Dates
 > - [[International\|Invitation Requests for Visa Applications]]: **9th October 2024** (AoE)
@@ -42,23 +40,12 @@ This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2
 > 
 > There are three forms relevant to registration:
 > 
-> 1. The main registration form: this form will be available from the 7th of October. The registration fees are outlined [[Registration\|here]]. You can use this form to register for the conference and associated workshops. If you would like to sign up for a workshop separately later, that will be possible to do as well.
+> 1. The main registration form: please register by filling out [this form](https://events.iitgn.ac.in/apply/application_fsttcs.php?eventid=26092024), which also includes a payment gateway. This should work for both Indian and international credit cards. If you are on an international card, the currency conversion happens after your card details have been entered. The registration fees are outlined [[Registration\|here]]. You can use this form to register for the conference and associated workshops. If you would like to sign up for a workshop separately later, that will be possible to do as well.
 >    
 > 2. The accommodation request form: if you would like to reserve a room at the guest house or our partner hotel, please use [[Accomodation Form\|this form]]. Students can use [[Accomodation Form\|the same form]] to indicate a request for a shared hostel room, which will be offered based on availability. Information about rates associated with various accommodation options is available [[Information\|here]].
 >    
 > 3. For international participants: when applying for a conference visa to India, you would need an invitation letter from the conference organizers and letter of clearance from the Ministry of External Affairs. To generate these documents, we will need some details, so we request you fill out [[Visa\|this form]] ASAP, and in any case no later than 9th October 2024 (AoE). For more information about applying for a visa, please see [[International\|this page]].
 >    
-
-> [!check]- Spread the word!
-> 
-> Please help us spread the word about FSTTCS 2024. You can share any/all of the following social media announcements:
-> 
-> 1. X
-> 2. LinkedIn
-> 3. Instagram
-> 4. Facebook
->    
->  If you would like to circulate an email announcement, please use the text [[Email CfP\|on this page]].
 
 > [!tip] Contact
 > 
