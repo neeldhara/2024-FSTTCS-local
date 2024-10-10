@@ -14,14 +14,14 @@ This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2
 > 
 > _Please fill out this form by the 13th of October (midnight, AoE)._ 
 > 
-> Invitation letters from the organizers will be sent out by the 11th of October.
+> Invitation letters from the organizers will be sent out by the 14th of October.
 > The Ministry clearance letter will be sent as soon as the organizers recieve it. 
 
 > [!NOTE] For Authors: after filling out [the registration form](https://events.iitgn.ac.in/apply/application_fsttcs.php?eventid=26092024) as a participant, you can register your paper [[Paper\|here]].
 
 > [!Calendar] Important Dates
 > - [[International\|Invitation Requests for Visa Applications]]: **13th October 2024** (AoE)
-> - Registrations Open: **7th October 2024**
+> - [Registrations](https://events.iitgn.ac.in/apply/application_fsttcs.php?eventid=2609202) Open: **7th October 2024**
 > - Early Bird Registration Deadline: **15th November 2024** (AoE)
 > - Final Registration Deadline: **13th December 2024** (AoE)
 
