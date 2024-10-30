@@ -2,7 +2,6 @@
 {"dg-publish":true,"dg-path":"registration","permalink":"/registration/"}
 ---
 
-
 ### Registration
 
 > [!calendar]  Please use [this form](https://events.iitgn.ac.in/apply/application_fsttcs.php?eventid=26092024) to register for FSTTCS 2024.
