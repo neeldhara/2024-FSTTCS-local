@@ -12,7 +12,7 @@ _If you do not meet these criteria but would like to volunteer nonetheless, we w
 
 **What the program offers.** Chosen volunteers will not have to pay a registration fee for the conference and the allied workshops that they choose to attend. The program does not cover travel or accommodation.
 
-**Logistics.** If selected as a volunteer, you will be asked to fill out a separate registration form. In case you have already registered and are selected as a volunteer, you will be eligible for a refund. Please note that we have limited spots, and that applying does **not** guarantee selection in the program. Please 
+**Logistics.** If selected as a volunteer, you will be asked to fill out a separate registration form. In case you have already registered and are selected as a volunteer, you will be eligible for a refund. Please note that we have limited spots, and that applying does **not** guarantee selection in the program. 
 
 Important Dates:
 
