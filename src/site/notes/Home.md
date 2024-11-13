@@ -22,7 +22,7 @@ This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2
 > [!Calendar] Important Dates
 > - [[International\|Invitation Requests for Visa Applications]]: **13th October 2024** (AoE)
 > - [Registrations](https://events.iitgn.ac.in/apply/application_fsttcs.php?eventid=2609202) Open: **7th October 2024**
-> - Early Bird Registration Deadline: **15th November 2024** (AoE)
+> - Early Bird Registration Deadline: **24th November 2024** (AoE) (*extended*)
 > - Final Registration Deadline: **13th December 2024** (AoE)
 
 > [!TLDR]- Workshops
