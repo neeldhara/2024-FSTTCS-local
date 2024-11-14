@@ -69,7 +69,7 @@ This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2
 >    *(for queries related to workshop and student accommodation logistics)*
 >    
 > 5. [Balagopal Komarath](https://iitgn.ac.in/faculty/cse/balagopal) `bkomarath -AT- iitgn.ac.in`
->    *(for queries related to registration and guest house/hotel accommodation)*
+>    *(for queries related to registration and guest house/hotel accommodation, classrooms and recording arrangements)*
 >    
 > 6. [Neeldhara Misra](https://iitgn.ac.in/faculty/cse/neeldhara) `neeldhara.m -AT- iitgn.ac.in`
 >    *(for any general queries)*
