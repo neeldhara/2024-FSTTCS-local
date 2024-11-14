@@ -6,6 +6,11 @@
 
 This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2024/), which will be hosted at [IIT Gandhinagar](https://www.iitgn.ac.in) between December 16–18, 2024. On this page, you will find more information about local arrangements and important announcements. 
 
+> [!volunteer] FSTTCS Volunteer Program
+> We are pleased to announce that our volunteer program is now live. If you are a student or a post-doc, this is an opportunity to waive off registration costs in exchange for helping out. 
+> 
+> Please head over [[Volunteers\|here]] for more details. 
+
 > [!question] If you have questions not addressed by the information on this page, please leave a comment on the [[Helpdesk\|helpdesk page]] (recommended) or reach out to us at `fsttcs2024@gmail.com`.
 
 > [!globe] International Participants
@@ -71,5 +76,13 @@ This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2
 >    
 > 7. [Manisha Padala](https://iitgn.ac.in/faculty/cse/manisha) `manisha.padala -AT- iitgn.ac.in`
 >    *(for queries related to food arrangements)*
+>   
+> 8. [Siddharth Barman](https://www.csa.iisc.ac.in/~barman/) `barman -AT- iisc.ac.in` 
+>    *(for queries related to supporting FSTTCS --- more information [here](https://fsttcs.netlify.app)).*
 > 
+> 9. [Aalok Thakkar](https://aalok-thakkar.github.io/) `r.thakkar -AT- ashoka.edu.in`
+>    _(for queries related to FSTTCS on social media)._
+>    
+> 10. [Shibashis Guha](https://www.tifr.res.in/shibashis.guha/) `shibashis -AT- tifr.res.in`
+>     _(publicity chair for FSTTCS)_
 
