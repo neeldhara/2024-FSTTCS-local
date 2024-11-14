@@ -49,6 +49,11 @@ body, p, a, .callout-title-inner, li {
   --callout-icon: lucide-globe-2;
 }
 
+.callout[data-callout="volunteer"] {
+  --callout-color: 17, 200, 104;
+  --callout-icon: lucide-zap;
+}
+
 @font-face {
   font-family: 'quinttorregular';
   src: url('quinttor-webfont.woff2') format('woff2'),
