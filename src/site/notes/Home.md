@@ -84,5 +84,7 @@ This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2
 >    _(for queries related to FSTTCS on social media)._
 >    
 > 10. [Shibashis Guha](https://www.tifr.res.in/shibashis.guha/) `shibashis -AT- tifr.res.in`
->     _(publicity chair for FSTTCS)_
-
+>    _(for queries related to FSTTCS publicity beyond social media)_
+>    
+> 11. [S P Suresh](https://www.cmi.ac.in/~spsuresh/) `spsuresh -AT- cmi.ac.in`
+>    *(for queries related to the main FSTTCS 2024 website and program pages)*
