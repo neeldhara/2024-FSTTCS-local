@@ -80,7 +80,7 @@ This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2
 > 8. [Siddharth Barman](https://www.csa.iisc.ac.in/~barman/) `barman -AT- iisc.ac.in` 
 >    *(for queries related to supporting FSTTCS --- more information [here](https://fsttcs.netlify.app)).*
 > 
-> 9. [Aalok Thakkar](https://aalok-thakkar.github.io/) `r.thakkar -AT- ashoka.edu.in`
+> 9. [Aalok Thakkar](https://aalok-thakkar.github.io/) `aalok.thakkar -AT- ashoka.edu.in`
 >    _(for queries related to FSTTCS on social media)._
 >    
 > 10. [Shibashis Guha](https://www.tifr.res.in/shibashis.guha/) `shibashis -AT- tifr.res.in`
