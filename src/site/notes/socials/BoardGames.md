@@ -8,7 +8,7 @@ We are delighted to invite you to board game evenings at FSTTCS!
 
 These events are informal hangouts where we get to come together and play some games. We have an array of options available in-house, with a lot of variety in terms of play time and complexity. You are also very welcome to bring your own games that you'd like to share. 
 
-This is a FREE event, and is organized by [Jyothi Krishnan](https://ccl.iitgn.ac.in/team/jyothi-krishnan) (CCL, IITGN), [Saraswati Nanoti](https://www.linkedin.com/in/saraswati-nanoti-37898a100/?originalSubdomain=in) (CSE, IITGN), and [Umang Bhaskar](https://www.tcs.tifr.res.in/~umang/) (STCS, TIFR, Mumbai).
+This is a FREE event, and is organized by [Jyothi Krishnan](https://ccl.iitgn.ac.in/team/jyothi-krishnan) (CCL, IITGN), [Saraswati Nanoti](https://sites.google.com/iitgn.ac.in/saraswati-girish-nanoti/home) (CSE, IITGN), and [Umang Bhaskar](https://www.tcs.tifr.res.in/~umang/) (STCS, TIFR, Mumbai).
 
 #### Venue
 
