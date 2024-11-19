@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-path":"games","permalink":"/games/"}
 ---
 
+## 🎲 Game On 
+
 We are delighted to invite you to board game evenings at FSTTCS!
 
 These events are informal hangouts where we get to come together and play some games. We have an array of options available in-house, with a lot of variety in terms of play time and complexity. You are also very welcome to bring your own games that you'd like to share. 
