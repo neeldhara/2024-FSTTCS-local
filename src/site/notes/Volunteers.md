@@ -20,6 +20,4 @@ Important Dates:
 2. Shortlist announcement: 22nd November, 2024
 3. Registration deadline for volunteers: 24th November, 2024
 
-### Apply for the Volunteer Program
-
-<iframe style="border:none;width:100%;" id="fsttcs-2024-volunteer-program-w8s4ze" src="https://opnform.com/forms/fsttcs-2024-volunteer-program-w8s4ze"></iframe><script type="text/javascript" onload="initEmbed('fsttcs-2024-volunteer-program-w8s4ze')" src="https://opnform.com/widgets/iframe.min.js"></script>
+**Applications for the volunteer program are now closed. Watch this space for a list of selected volunteers.**

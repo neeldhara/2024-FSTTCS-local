@@ -2,7 +2,6 @@
 {"dg-publish":true,"dg-path":"social","permalink":"/social/"}
 ---
 
-
 ### Socials at FSTTCS 2024
 
 FSTTCS 2024 will feature the following social events, open to all (this includes invited and registered participants, and volunteers).
