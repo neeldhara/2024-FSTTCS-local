@@ -11,5 +11,4 @@ Jaison Manjaly led the IITGN team to a Gold medal at the inter-IIT sports meet i
 Sign up below so we can gauge interest and may be turn this into a mini-tournament :)
 
 ---
-
-<iframe style="border:none;width:100%;" id="board-game-nights-at-fsttcs-2024-0i9pug" src="https://opnform.com/forms/board-game-nights-at-fsttcs-2024-0i9pug"></iframe><script type="text/javascript" onload="initEmbed('board-game-nights-at-fsttcs-2024-0i9pug')" src="https://opnform.com/widgets/iframe.min.js"></script>
+<iframe style="border:none;width:100%;" id="juggling-at-fsttcs-h9q2jp-1" src="https://opnform.com/forms/juggling-at-fsttcs-h9q2jp-1"></iframe><script type="text/javascript" onload="initEmbed('juggling-at-fsttcs-h9q2jp-1')" src="https://opnform.com/widgets/iframe.min.js"></script>
