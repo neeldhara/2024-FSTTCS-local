@@ -7,20 +7,14 @@
 This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2024/), which will be hosted at [IIT Gandhinagar](https://www.iitgn.ac.in) between December 16–18, 2024. On this page, you will find more information about local arrangements and important announcements. 
 
 > [!volunteer] FSTTCS Volunteer Program
-> We are pleased to announce that our volunteer program is now live. If you are a student or a post-doc, this is an opportunity to waive off registration costs in exchange for helping out. 
 > 
-> Please head over [[Volunteers\|here]] for more details. 
+> Many thanks to everyone who applied to the volunteer program! Please head over [[Volunteers\|here]] to see the list of shortlisted applicants and further instructions. 
 
 > [!question] If you have questions not addressed by the information on this page, please leave a comment on the [[Helpdesk\|helpdesk page]] (recommended) or reach out to us at `fsttcs2024@gmail.com`.
 
 > [!globe] International Participants
 > 
-> Please see [[International\|this page]] for more information regarding visas and fill out [[Visa\|the form here]] to apply for an invitation letter and a letter of clearance from the Indian Ministry of External Affairs. 
-> 
-> _Please fill out this form by the 13th of October (midnight, AoE)._ 
-> 
-> Invitation letters from the organizers will be sent out by the 14th of October.
-> The Ministry clearance letter will be sent as soon as the organizers recieve it. 
+> The list of international participants has been shared with Ministry of External Affairs mid-October. We are awaiting the letter of political clearance which will serve as a supporting document for those applying for a conference visa. This will be shared with participants as soon as the organizers receive it from the MEA. Thanks for your patience and understanding.
 
 > [!NOTE] For Authors: after filling out [the registration form](https://events.iitgn.ac.in/apply/application_fsttcs.php?eventid=26092024) as a participant, you can register your paper [[Paper\|here]].
 
@@ -88,3 +82,8 @@ This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2
 >    
 > 11. [S P Suresh](https://www.cmi.ac.in/~spsuresh/) `spsuresh -AT- cmi.ac.in`
 >    *(for queries related to the main FSTTCS 2024 website and program pages)*
+
+
+
+
+
