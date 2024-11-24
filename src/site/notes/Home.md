@@ -2,7 +2,13 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
+
+
 ## 👋 Welcome!
+
+> [!warning] Issue with Registration Rates
+> 
+> It appears that our early bird registration rates are not available right now, although they should be! Our apologies for this glitch. Please hold off on registering, we are looking to fix this ASAP.
 
 This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2024/), which will be hosted at [IIT Gandhinagar](https://www.iitgn.ac.in) between December 16–18, 2024. On this page, you will find more information about local arrangements and important announcements. 
 
