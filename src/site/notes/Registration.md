@@ -4,6 +4,10 @@
 
 ### Registration
 
+> [!warning] Issue with Registration Rates
+> 
+> It appears that our early bird registration rates are not available right now, although they should be! Our apologies for this glitch. Please hold off on registering, we are looking to fix this ASAP.
+
 > [!calendar]  Please use [this form](https://events.iitgn.ac.in/apply/application_fsttcs.php?eventid=26092024) to register for FSTTCS 2024.
 
 > [!danger] Please note that registrations are not refundable or transferable.
