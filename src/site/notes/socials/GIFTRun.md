@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-path":"giftrun","permalink":"/giftrun/"}
 ---
 
+## GIFT City Run
+
 The Shilp Aarambh GIFT City Run was conceived as a celebration of fitness, community, and a shared vision for a healthier, drug-free future. The event is in its third edition and will be held on the 15th of December. You have the option to choose between a 5KM run, a 10KM run, and a half-marathon.
 
 The registration ends on Sunday, 8th December, 2024, 11.59 PM IST or as soon as running places are filled, whichever is earlier.

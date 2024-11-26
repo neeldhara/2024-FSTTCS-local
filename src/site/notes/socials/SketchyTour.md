@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-path":"sketchytour","permalink":"/sketchytour/"}
 ---
 
+## Sketchy Tour
+
 In the sketchy campus tour, one of our artists-in-residence will guide you through some spot sketching/drawing exercises, inspired by what you see around you. Our campus is a visual treat, and this is a great way to explore it! You can also join the tour if you enjoy walking around and taking photographs, for example, but we suspect you will be drawn to the drawing aspect of it sooner or later :)
 
 Please register your interest by signing up below.

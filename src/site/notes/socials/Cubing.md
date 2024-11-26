@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-path":"cubing","permalink":"/cubing/"}
 ---
 
+## Cubing
+
 We are trying to convince some cubing nerds to steer a discussion on the fun and math of cubing with a 3 x 3 x 3 Rubik's cube and possibly beyond. Let us know if you'd be interested! 
 
 There are no prerequisites, but ideally, bring your own cube(s).
