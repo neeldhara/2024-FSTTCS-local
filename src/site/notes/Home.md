@@ -6,9 +6,9 @@
 
 ## 👋 Welcome!
 
-> [!warning] Issue with Registration Rates
+> [!warning] Early Bird Closing Soon!
 > 
-> It appears that our early bird registration rates are not available right now, although they should be! Our apologies for this glitch. Please hold off on registering, we are looking to fix this ASAP.
+> Our early bird registration rates are live until the end of day, 26th November (AoE). Please register soon!
 
 This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2024/), which will be hosted at [IIT Gandhinagar](https://www.iitgn.ac.in) between December 16–18, 2024. On this page, you will find more information about local arrangements and important announcements. 
 
