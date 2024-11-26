@@ -15,10 +15,7 @@ Website: https://www.fsttcs.org.in/2024/
 Local website: https://fsttcs.info/
 
 Registration: https://fsttcs.info/registration/
-Early-bird registration deadline: 24th November, AoE
-
-Volunteer Program: https://fsttcs.info/volunteers/
-Deadline to apply: 20th November, AoE
+Early-bird registration deadline: 26th November, AoE (extended)
 
 Social Events: https://fsttcs.info/social/
 Virtual Participation: https://fsttcs.info/online/
