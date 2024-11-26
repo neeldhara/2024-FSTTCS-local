@@ -24,6 +24,6 @@ Please be sure to register for the individual events to help the organizers plan
 | TBA | TBA      | TBA     | [[socials/Chess\|Chess]]                                        | TBA                                      | Free            |
 | TBA | TBA      | TBA     | [[socials/Cubing\|Cubing]]                                       | TBA                                      | Free            |
 | TBA | TBA      | TBA     | [[socials/Birdwatching\|Birdwatching]]                                 | Start from <br>Guest House               | 399 INR         |
-| TBA | TBA      | TBA     | Sketchy Campus Tour                              | Start from<br>Guest House                | Free            |
+| TBA | TBA      | TBA     | [[socials/SketchyTour\|Sketchy Campus Tour]]             | Start from<br>Guest House                | Free            |
 | TBA | TBA      | TBA     | [[socials/Magic\|Magic]]                                        | TBA                                      | Free            |
 
