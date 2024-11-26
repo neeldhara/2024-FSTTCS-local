@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"email-cfp","permalink":"/email-cfp/"}
+{"dg-publish":true,"dg-path":"cfp","permalink":"/cfp/"}
 ---
 
 ### FSTTCS 2024 Call for Participation
