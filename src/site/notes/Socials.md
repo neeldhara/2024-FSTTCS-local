@@ -4,7 +4,7 @@
 
 ### Socials at FSTTCS 2024
 
-FSTTCS 2024 will feature the following social events, open to all (this includes invited and registered participants, and volunteers).
+FSTTCS 2024 will feature the following social events, open to all (this includes invited and registered participants, and volunteers, and the IITGN community).
 
 Please be sure to register for the individual events to help the organizers plan appropriately, though. The page for each event has more information on signing up and the point of contact, should you need more information. Leave a comment below if you have any questions!
 
