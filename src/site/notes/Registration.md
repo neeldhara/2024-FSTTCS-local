@@ -4,9 +4,11 @@
 
 ### Registration
 
-> [!warning] Early Bird Closing Soon!
+> [!warning] Join FSTTCS Virtually!
 > 
-> Our early bird registration rates are live until the end of day, 26th November (AoE). Please register soon!
+> If you missed registering for FSTTCS at early bird rates or traveling to attend is not feasible, note that we have an exciting remote experience planned for our online attendees. Further, attending online is free of cost! Join our community and sign up to be reminded [[Online\|here]]. 
+> 
+> If you are still looking to participate in person, registration will remain open until the 10th of December.
 
 > [!calendar]  Please use [this form](https://events.iitgn.ac.in/apply/application_fsttcs.php?eventid=26092024) to register for FSTTCS 2024.
 

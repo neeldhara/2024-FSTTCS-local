@@ -6,9 +6,11 @@
 
 ## 👋 Welcome!
 
-> [!warning] Early Bird Closing Soon!
+> [!warning] Join FSTTCS Virtually!
 > 
-> Our early bird registration rates are live until the end of day, 26th November (AoE). Please register soon!
+> If you missed registering for FSTTCS at early bird rates or traveling to attend is not feasible, note that we have an exciting remote experience planned for our online attendees. Further, attending online is free of cost! Join our community and sign up to be reminded [[Online\|here]]. 
+> 
+> If you are still looking to participate in person and haven't registered yet: please note that registration at regular rates will remain open until 13th December... please sign up sooner than later!
 
 This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2024/), which will be hosted at [IIT Gandhinagar](https://www.iitgn.ac.in) between December 16–18, 2024. On this page, you will find more information about local arrangements and important announcements. 
 
@@ -20,7 +22,7 @@ This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2
 
 > [!globe] International Participants
 > 
-> The list of international participants has been shared with Ministry of External Affairs mid-October. We are awaiting the letter of political clearance which will serve as a supporting document for those applying for a conference visa. This will be shared with participants as soon as the organizers receive it from the MEA. Thanks for your patience and understanding.
+> Update: Invitation letters and the letter of political clearance have been sent out to all international participants who applied for it. Thanks for your patience!
 
 > [!NOTE] For Authors: after filling out [the registration form](https://events.iitgn.ac.in/apply/application_fsttcs.php?eventid=26092024) as a participant, you can register your paper [[Paper\|here]].
 
@@ -88,6 +90,10 @@ This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2
 >    
 > 11. [S P Suresh](https://www.cmi.ac.in/~spsuresh/) `spsuresh -AT- cmi.ac.in`
 >    *(for queries related to the main FSTTCS 2024 website and program pages)*
+>    
+> 12.  [Jyothi Krishnan](https://ccl.iitgn.ac.in/team/jyothi-krishnan) `jyothi.k -AT- iitgn.ac.in`
+>    *(for queries related to the registration kit)*
+
 
 
 
