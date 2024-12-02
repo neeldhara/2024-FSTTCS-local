@@ -34,9 +34,10 @@ If you applied to the program and you have not been shortlisted below, it is onl
 If you applied to the program and have been shortlisted: congratulations! You will hear from us over email soon. Please make note of the following important next steps:
 
 1. Please join the volunteer Whatsapp group, an invitation link will be communicated over email.
-2. Please register using the volunteer registration form. If you have registered already, the form will allow you to indicate your participant ID, so that we can process a refund in due course. It is crucial that you complete your registration by the end of the day, **24th of November, AoE**.
-
-<iframe style="border:none;width:100%;" id="invited-participants-g0vzr7-1" src="https://opnform.com/forms/invited-participants-g0vzr7-1"></iframe><script type="text/javascript" onload="initEmbed('invited-participants-g0vzr7-1')" src="https://opnform.com/widgets/iframe.min.js"></script>
+2. ~~Please register using the volunteer registration form.~~  
+   _Update: volunteer registrations are now closed. Thanks for joining in!_
+   
+   If you have registered already, the form will allow you to indicate your participant ID, so that we can process a refund in due course. It is crucial that you complete your registration by the end of the day, **24th of November, AoE**.
 
 ---
 
