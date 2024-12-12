@@ -9,7 +9,7 @@
 > 
 > If you missed registering for FSTTCS at early bird rates or traveling to attend is not feasible, note that we have an exciting remote experience planned for our online attendees. Further, attending online is free of cost! Join our community and sign up to be reminded [[Online\|here]]. 
 > 
-> If you are still looking to participate in person and haven't registered yet: please note that registration at regular rates will remain open until 13th December... please sign up sooner than later!
+> If you are still looking to participate in person and haven't registered yet: please note that registration at regular rates will remain open until 13th December *midnight IST*... please sign up sooner than later!
 
 > [!globe] Attending in person?
 > 
@@ -23,24 +23,6 @@
 
 This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2024/), which will be hosted at [IIT Gandhinagar](https://www.iitgn.ac.in) between December 16–18, 2024. On this page, you will find more information about local arrangements and important announcements. 
 
-> [!volunteer] FSTTCS Volunteer Program
-> 
-> Many thanks to everyone who applied to the volunteer program! Please head over [[Volunteers\|here]] to see the list of shortlisted applicants and further instructions. 
-
-> [!question] If you have questions not addressed by the information on this page, please leave a comment on the [[Helpdesk\|helpdesk page]] (recommended) or reach out to us at `fsttcs2024@gmail.com`.
-
-> [!globe] International Participants
-> 
-> Update: Invitation letters and the letter of political clearance have been sent out to all international participants who applied for it. Thanks for your patience!
-
-> [!NOTE] For Authors: after filling out [the registration form](https://events.iitgn.ac.in/apply/application_fsttcs.php?eventid=26092024) as a participant, you can register your paper [[Paper\|here]].
-
-> [!Calendar] Important Dates
-> - [[International\|Invitation Requests for Visa Applications]]: **13th October 2024** (AoE)
-> - [Registrations](https://events.iitgn.ac.in/apply/application_fsttcs.php?eventid=26092024) Open: **7th October 2024**
-> - Early Bird Registration Deadline: **24th November 2024** (AoE) (*extended*)
-> - Final Registration Deadline: **13th December 2024** (AoE)
-
 > [!TLDR]- Workshops
 > 
 > - [Milestones and Motifs in the Theory of Proofs, Algebraic Computation, and Lower Bounds](https://mmcomplexity.github.io/)  
@@ -51,6 +33,14 @@ This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2
 >     **Dates:** December 19, 2024  
 > - [Workshop on Algorithmic Mechanism Design](http://www.tcs.tifr.res.in/~amd-24)  
 >     **Dates:** December 19 – 20, 2024
+
+> [!question] If you have questions not addressed by the information on this page, please leave a comment on the [[Helpdesk\|helpdesk page]] (recommended) or reach out to us at `fsttcs2024@gmail.com`.
+
+> [!Calendar] Important Dates
+> - [[International\|Invitation Requests for Visa Applications]]: **13th October 2024** (AoE)
+> - [Registrations](https://events.iitgn.ac.in/apply/application_fsttcs.php?eventid=26092024) Open: **7th October 2024**
+> - Early Bird Registration Deadline: **24th November 2024** (AoE) (*extended*)
+> - Final Registration Deadline: **13th December 2024** (AoE)
 
 > [!Example]- Registration Logistics
 > 
@@ -103,6 +93,17 @@ This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2
 > 12.  [Jyothi Krishnan](https://ccl.iitgn.ac.in/team/jyothi-krishnan) `jyothi.k -AT- iitgn.ac.in`
 >    *(for queries related to the registration kit)*
 
+---
+
+> [!volunteer] FSTTCS Volunteer Program
+> 
+> Many thanks to everyone who applied to the volunteer program! Please head over [[Volunteers\|here]] to see the list of shortlisted applicants and further instructions. 
+
+> [!globe] International Participants
+> 
+> Update: Invitation letters and the letter of political clearance have been sent out to all international participants who applied for it. Thanks for your patience!
+
+> [!NOTE] For Authors: after filling out [the registration form](https://events.iitgn.ac.in/apply/application_fsttcs.php?eventid=26092024) as a participant, you can register your paper [[Paper\|here]].
 
 
 
