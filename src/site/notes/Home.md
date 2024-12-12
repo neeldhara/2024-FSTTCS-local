@@ -5,6 +5,8 @@
 
 ## 👋 Welcome!
 
+> [!question] If you have questions not addressed by the information on this page, please leave a comment on the [[Helpdesk\|helpdesk page]] (recommended) or reach out to us at `fsttcs2024@gmail.com`.
+
 This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2024/), which will be hosted at [IIT Gandhinagar](https://www.iitgn.ac.in) between December 16–18, 2024. On this page, you will find more information about local arrangements and important announcements. 
 
 > [!warning] Join FSTTCS Virtually!
@@ -22,6 +24,8 @@ This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2
 > - Track B talks at FSTTCS, RHPL/WAGS talks are in AB 1/102
 > - All keynote talks are in AB 1/103 (aka Jibaben auditorium)
 > - All food is at the pedway behind the fountain area near AB1: follow the crowd!
+>   
+>  Entry and exit to the campus is through **Gate 1**. The password to get through is `FSTTCS`, verbalized with confidence. If this triggers further rituals, please follow them - you might have to at most sign off on a register. 
 
 For those who are fond of traditional maps:
  ![Pasted image 20241212205122.png](/img/user/Pasted%20image%2020241212205122.png)
@@ -36,8 +40,6 @@ For those who are fond of traditional maps:
 >     **Dates:** December 19, 2024  
 > - [Workshop on Algorithmic Mechanism Design](http://www.tcs.tifr.res.in/~amd-24)  
 >     **Dates:** December 19 – 20, 2024
-
-> [!question] If you have questions not addressed by the information on this page, please leave a comment on the [[Helpdesk\|helpdesk page]] (recommended) or reach out to us at `fsttcs2024@gmail.com`.
 
 > [!Calendar] Important Dates
 > - [[International\|Invitation Requests for Visa Applications]]: **13th October 2024** (AoE)
