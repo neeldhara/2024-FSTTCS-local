@@ -8,6 +8,16 @@ The venue of the conference is the Indian Institute of Technology, Gandhinagar, 
 
 Please don't hesitate to reach out if you have any questions! The best email for general inquiries is `fsttcs2024@gmail.com` with a CC to `neeldhara.m@iitgn.ac.in`.
 
+
+> [!example]- Internet Access via WiFi
+>
+> If you use a wireless device, please connect to IITGN-SSO and use the credentials below to connect to the Internet. If you use a LAN connection, please log in to the [web portal](https://internet.iitgn.ac.in/).
+> 
+> Internet ID: `workshop2`
+> Password: _shared by email and whatsapp_
+>
+> This IITGN Internet ID will work only at the IIT Gandhinagar campus. 
+
 > [!home]- Accommodation for Students
 > 
 > A limited number of rooms are available in the hostels on campus or in a nearby residency. These rooms will be shared. The *approximate* cost of the room is Rs. 300/day. 
