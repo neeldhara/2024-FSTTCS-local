@@ -129,14 +129,10 @@ Please don't hesitate to reach out if you have any questions! The best email for
 
 > [!info]- Venue of the Talks, Posters, and Socials
 > 
-> All conference talks and the YIM event will be held in one of the following rooms, which are all situated at Academic Block 1:
+> All Track A contributed conference talks and the MM/AMD workshops will be held in AB 1/101.
+> All Track B contributed conference talks and WAGS will be held in AB 1/102.
+> All keynote talks will be held in AB 1/103 (aka the Jibaben Auditorium).
 > 
-> - AB 1/103 (aka the Jibaben Auditorum)
-> - AB 1/101 and 1/102 (ground-floor learning theaters)
-> - AB 1/201 (first-floor learning theatres)
-> 
-> The room on the first floor is accessible via both a ramp and a staircase (no elevators, though).
->
 > The posters for RHPL will be displayed in a foyer area right outside the learning theaters. 
 >
 > Academic Block 1 is strategically located in proximity to the main cafeteria, known as the _2 degree cafe_. Use that as a guiding landmark to find the venue.
@@ -144,6 +140,8 @@ Please don't hesitate to reach out if you have any questions! The best email for
 > The venue for the conference banquet is (tentatively) the fountain area near Academic Block 1. To find it, follow the crowd!
 >
 > The venue for the puzzles social is the Center for Creative Learning. Finding the place is the first puzzle to solve.
+> 
+> The venue for other social events will be announced on the event pages and by direct contact to those who signed up. 
 
 > [!reference]- Bring Your Own...
 >
