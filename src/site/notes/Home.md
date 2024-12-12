@@ -5,6 +5,8 @@
 
 ## 👋 Welcome!
 
+This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2024/), which will be hosted at [IIT Gandhinagar](https://www.iitgn.ac.in) between December 16–18, 2024. On this page, you will find more information about local arrangements and important announcements. 
+
 > [!warning] Join FSTTCS Virtually!
 > 
 > If you missed registering for FSTTCS at early bird rates or traveling to attend is not feasible, note that we have an exciting remote experience planned for our online attendees. Further, attending online is free of cost! Join our community and sign up to be reminded [[Online\|here]]. 
@@ -15,13 +17,14 @@
 > 
 > Please check the [[Information\|intel]] page for details that will help you navigate the venue! Briefly:
 > 
-> - The talks are in what is called Academic Block 1, behind the 2 degree cafe
+> - The talks are in [Academic Block 1](https://maps.app.goo.gl/m5onz1qAejF6z5WY8), behind the 2 degree cafe
 > - Track A talks at FSTTCS, MM/AMD talks are in AB 1/101
 > - Track B talks at FSTTCS, RHPL/WAGS talks are in AB 1/102
 > - All keynote talks are in AB 1/103 (aka Jibaben auditorium)
 > - All food is at the pedway behind the fountain area near AB1: follow the crowd!
 
-This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2024/), which will be hosted at [IIT Gandhinagar](https://www.iitgn.ac.in) between December 16–18, 2024. On this page, you will find more information about local arrangements and important announcements. 
+For those who are fond of traditional maps:
+ ![Pasted image 20241212205122.png](/img/user/Pasted%20image%2020241212205122.png)
 
 > [!TLDR]- Workshops
 > 
