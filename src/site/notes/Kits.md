@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"kits","permalink":"/kits/"}
+{"dg-publish":true,"dg-path":"kit","permalink":"/kit/"}
 ---
 
 ### Conference Kits
