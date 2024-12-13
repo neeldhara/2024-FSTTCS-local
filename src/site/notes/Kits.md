@@ -19,10 +19,10 @@ Your conference kits have several goodies in them. In this page, we give you an 
 > 5. Diya Shah: organized assembly, and made the designs compatible for our printers, worked on peg solitaire, and hunted down pieces in local markets
 > 6. Jatin Yadav: contributed the puzzle on the bookmark
 > 7. Shaumik Khanna: programmed various puzzles and worked on peg solitaire
-> 8. Shipla Bansal: Overall organization of materials
+> 8. Shilpa Bansal: Overall organization of materials
 > 9. Vishal Prajapati: Overall organization of materials
 >    
-> Also: NEEV was our organizational partner for the canvas bags, and vistaprint was the printing service responsible for most of the printables.     
+> Also: NEEV was our organizational partner for the canvas bags, and Vistaprint was the printing service responsible for most of the printables.     
 
 ##### What's in the kit?
 
@@ -37,13 +37,15 @@ The pouch, in turn, has the following:
 1. A standard deck of playing cards
 2. An exclusive deck of FSTTCS-themed sorting cards, which have the program of the conference on the front and numbers on the back, so they remain relevant even after FSTTCS is over
 3. A coaster with one of four possible games on it (see below)
-4. A color pencil (which you will need to play the notepad games)
-5. A little bag with tokens in it (which you will need to play the coaster games)
+4. A color pencil
+5. A little bag with tokens in it
 6. Four pocket-sized notepads
 7. Two bookmarks: one with a game and one with a puzzle
 8. If applicable, a coupon to the conference dinner(s)
 
-More cool things you can pick up from the registration desk:
+You will need the pencil and tokens to play! Keep them safe. 
+
+Further, there are some more cool things you can pick up from the registration desk:
 
 1. Conversation prompts (courtesy crowdsourced suggestions)
 2. Folding challenges (courtesy various working groups at CCL)
