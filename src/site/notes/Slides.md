@@ -4,7 +4,7 @@
 
 ### Slides
 
-In-person Speakers: please upload your slides using the form below, and we will have them manifest on the projector at the appropriate time. Alternatively, you can cast your screen to the projector using airserver. 
+Please upload your slides using the form below, and we will have them manifest on the projector at the appropriate time. Alternatively, you can cast your screen to the projector using airserver. 
 
 If neither option is reasonable, please contact a volunteer to figure out your options.
 
