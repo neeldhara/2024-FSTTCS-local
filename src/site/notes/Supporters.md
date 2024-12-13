@@ -9,7 +9,5 @@ FSTTCS 2024 is presented jointly by IARCS, ACM India, and IIT Gandhinagar. We ar
 We are proud to be partnering with the Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT) for the Young Investigators Meeting.
 
 1. **Platinum Partner**: Google
-
-3. **Gold Partner**: TCS Research
-
-4. **Silver Partner**: Amuse Labs, Tarides, and Jed-i
+2. **Gold Partner**: TCS Research
+3. **Silver Partner**: Amuse Labs, Tarides, and Jed-i
