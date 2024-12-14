@@ -20,8 +20,8 @@ This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2
 > Please check the [[Information\|intel]] page for details that will help you navigate the venue! Briefly:
 > 
 > - The talks are in [Academic Block 1](https://maps.app.goo.gl/m5onz1qAejF6z5WY8), behind the 2 degree cafe
-> - Track A talks at FSTTCS, MM/AMD talks are in AB 1/101
-> - Track B talks at FSTTCS, RHPL/WAGS talks are in AB 1/102
+> - Track A talks at FSTTCS and AMD talks are in AB 1/101
+> - Track B talks at FSTTCS, MM/RHPL/WAGS talks are in AB 1/102
 > - All keynote talks are in AB 1/103 (aka Jibaben auditorium)
 > - All food is at the pedway behind the fountain area near AB1: follow the crowd!
 >   
