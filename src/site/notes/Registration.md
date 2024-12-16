@@ -10,7 +10,7 @@
 > 
 > If you are still looking to participate in person, registration will remain open until the 10th of December.
 
-> [!calendar]  Please use [this form](https://events.iitgn.ac.in/apply/application_fsttcs.php?eventid=26092024) to register for FSTTCS 2024.
+> [!calendar]  Registration is now closed.
 
 > [!danger] Please note that registrations are not refundable or transferable.
 
