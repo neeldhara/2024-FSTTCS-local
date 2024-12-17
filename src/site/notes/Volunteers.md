@@ -43,28 +43,28 @@ If you applied to the program and have been shortlisted: congratulations! You wi
 
 #### List of Shortlisted Volunteers
 
-| .                                | .                           | .                       |
-| -------------------------------- | --------------------------- | ----------------------- |
-| Adithya Bijoy                    | Aditi Abhijit Kulkarni      | Aditi Mishra            |
-| Aditi Sethia                     | Adwitee Roy                 | Akash Sahoo             |
-| Ananya Rajas Ranade              | Aniket Mishra               | Anirban Majumdar        |
-| Anshul Kumar                     | Apeksha Srivastava          | Aranya Kumar Bal        |
-| Archit Chauhan                   | Arghya Chakraborty          | Arnab Ray               |
-| Avijeet Ghosh                    | Bhuvandeep                  | Catherin Bernard        |
-| Deepak Madhukar Bakal            | Dharaben Rameshbhai Thakkar | Dipan Dey               |
-| Diya Roy                         | Dr. Sayani Das              | Gyanashree Giri         |
-| Harshil M.                       | Himanshu Patil              | Jatin Yadav             |
-| Jinia Ghosh                      | Keshav Ranjan               | Koustav Das             |
-| Koustav De                       | Krishnashree J B            | Kunal Bag               |
-| Kushagra Shandilya               | Lakshay Saggi               | Md Fayez Anwar          |
-| Neelabjo Shubhashis Choudhury    | Nidhi Gunjal                | Nimitt                  |
-| Nitika Baghel                    | Pinki Pradhan               | Pragya Arora            |
-| Prasad Chaugule                  | Pratyush Choudhary          | Priyanshi Agrawal       |
-| Purna Chandra Sekhar Vakudavathu | Rajiv Dalal                 | Rittik Dey              |
-| Rohit Narayanan                  | Saraswati Nanoti            | Saurav Awasthi          |
-| Sharmila Duppala                 | Shubhajit Roy               | Shubham Bhardwaj        |
-| Smiha Samanta                    | Sonam Gariya                | Soumen Mandal           |
-| Soumyajit Pyne                   | Subhrajit Das               | Subodh Kumar            |
-| Suryendu Mondal                  | Susobhan Bandopadhyay       | Tanvi Chaubey           |
-| Udit Kumar                       | Vardhan Kumar Ray           | Virat Narendra Shrimali |
-| Yeshwant Pandit                  |                             |                         |
+| .                                | .                           | .                 |
+| -------------------------------- | --------------------------- | ----------------- |
+| Adithya Bijoy                    | Aditi Abhijit Kulkarni      | Aditi Mishra      |
+| Aditi Sethia                     | Adwitee Roy                 | Akash Sahoo       |
+| Ananya Rajas Ranade              | Aniket Mishra               | Anirban Majumdar  |
+| Anshul Kumar                     | Apeksha Srivastava          | Aranya Kumar Bal  |
+| Archit Chauhan                   | Arghya Chakraborty          | Arnab Ray         |
+| Avijeet Ghosh                    | Bhuvandeep                  | Catherin Bernard  |
+| Deepak Madhukar Bakal            | Dharaben Rameshbhai Thakkar | Dipan Dey         |
+| Diya Roy                         | Dr. Sayani Das              | Gyanashree Giri   |
+| Harshil M.                       | Himanshu Patil              | Jatin Yadav       |
+| Jinia Ghosh                      | Keshav Ranjan               | Koustav Das       |
+| Koustav De                       | Krishnashree J B            | Kunal Bag         |
+| Kushagra Shandilya               | Lakshay Saggi               | Md Fayez Anwar    |
+| Neelabjo Shubhashis Choudhury    | Nidhi Gunjal                | Nimitt            |
+| Nitika Baghel                    | Pinki Pradhan               | Pragya Arora      |
+| Prasad Chaugule                  | Pratyush Choudhary          | Priyanshi Agrawal |
+| Purna Chandra Sekhar Vakudavathu | Rajiv Dalal                 | Rittik Dey        |
+| Rohit Narayanan                  | Saraswati Nanoti            | Saurav Awasthi    |
+| Sharmila Duppala                 | Shubhajit Roy               | Shubham Bhardwaj  |
+| Smiha Samanta                    | Sonam Gariya                | Soumen Mandal     |
+| Soumyajit Pyne                   | Subhrajit Das               | Subodh Kumar      |
+| Suryendu Mondal                  | Susobhan Bandopadhyay       | Tanvi Chaubey     |
+| Udit Kumar                       | Vaibhav Krishnan            | Vardhan Kumar Ray |
+| Virat Narendra Shrimali          | Yeshwant Pandit             |                   |
