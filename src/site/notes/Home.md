@@ -13,7 +13,7 @@ This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2
 > 
 > Thank you for joining us at FSTTCS, in-person or online! The conference was a delight, and we are now excited for the next edition at BITS Goa.
 > 
-> Meanwhile, you can find [[Memories\|memories]] of the 2024 edition here, you can share your [[Feedback\|feedback]], and you can also download slides as uploaded by authors from [[Slides\|here]].
+> Meanwhile, you can find [[Memories\|memories]] of the 2024 edition here, you can share your [[Feedback\|feedback]], and you can also download slides as uploaded by authors from [[Slides\|here]]. Also, our [[Acknowledgements\|thanks]] to everyone who put FSTTCS together.
 
 > [!globe] Attending in person?
 > 

@@ -20,7 +20,7 @@ We are grateful to various people for bringing together FSTTCS 2024 and making i
 
 5. **Session Chairs**. We thank the session chairs of FSTTCS and the associated workshops, and special thanks to those who had to run the [[AAA\|AAA]] program for us :)
 
-6. **Speakers**. Thank you for all the wonderful talks, which was the heart of the program!
+6. **Speakers and Attendees**. Thank you for all the wonderful talks, which was the heart of the program :) Thanks to all the attendees for all the engagement throughout the week.
 
 7. **Volunteers.** All the [[Volunteers\|volunteers]] pitched in to keep the program running smoothly across a 7-day span: thank you and kudos!
 
