@@ -98,6 +98,8 @@ For those who are fond of traditional maps:
 > 12.  [Jyothi Krishnan](https://ccl.iitgn.ac.in/team/jyothi-krishnan) `jyothi.k -AT- iitgn.ac.in`
 >    *(for queries related to the registration kit)*
 
+![sponsor-logos.png](/img/user/sponsor-logos.png)
+
 ---
 
 > [!volunteer] FSTTCS Volunteer Program
