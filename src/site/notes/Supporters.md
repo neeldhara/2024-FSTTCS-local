@@ -10,4 +10,5 @@ We are proud to be partnering with the Dhirubhai Ambani Institute of Information
 
 1. **Platinum Partner**: Google
 2. **Gold Partner**: TCS Research
-3. **Silver Partner**: Amuse Labs, Tarides, and Jed-i
+3. Academic Partner: 
+4. **Silver Partner**: Amuse Labs, Tarides, and Jed-i

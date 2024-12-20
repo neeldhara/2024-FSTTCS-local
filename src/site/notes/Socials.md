@@ -19,12 +19,14 @@ Leave a comment on the [[Helpdesk\|helpdesk page]] if you have any questions!
 | Mon | 16th Dec | 1PM     | [[socials/Chess\|Chess]]                                        | Over Lunch                               | Free            |
 | Mon | 16th Dec | 7AM     | [[socials/Birdwatching\|Birdwatching]]                                 | Central Arcade                           | Free            |
 | Tue | 17th Dec | 1PM     | [[socials/Chess\|Chess]]                                        | Over Lunch                               | Free            |
+| Wed | 18th Dec | 7AM     | [[socials/SketchyTour\|Sketchy Campus Tour]]             | Start from<br>Guest House                | Free            |
 | Wed | 18th Dec | 5PM     | [[socials/CCL\|Puzzles and Exhibits]]                    | CCL                                      | Free            |
+| Wed | 18th Dec | 1PM     | [[socials/Magic\|Magic]]                                        | Over Lunch                               | Free            |
 | Wed | 18th Dec | 5PM     | [[socials/Juggling\|Juggling]]                                     | CCL                                      | Free            |
 | Wed | 18th Dec | 5PM     | Art @IITGN Exhibition                            | Central Arcade                           | Free            |
 | Thu | 19th Dec | 6.30PM  | [[socials/BoardGames\|Board Games Redux]]                | CCL,<br>Faculty Lounge,<br>FSTTCS Lounge | Free            |
-| Thu | 19th Dec | 9PM     | Movie Screening<br>_(details forthcoming)_       | Jibaben<br>Auditorium                    | Free            |
-| TBA | TBA      | TBA     | [[socials/Cubing\|Cubing]]                                       | TBA                                      | Free            |
-| TBA | TBA      | TBA     | [[socials/SketchyTour\|Sketchy Campus Tour]]             | Start from<br>Guest House                | Free            |
-| TBA | TBA      | TBA     | [[socials/Magic\|Magic]]                                        | TBA                                      | Free            |
+| Thu | 19th Dec | 9PM     | Movie Screening<br>_(Secrets of the Surface)_    | Jibaben<br>Auditorium                    | Free            |
+
+
+
 
