@@ -8,6 +8,12 @@
 > 
 > The applicants who have been selected for the program are enlisted at the end of this page. Please check instructions and be sure to register by the end of the day, **24th of November, AoE** to confirm your participation in the program!
 
+![volunteers.jpg](/img/user/volunteers.jpg)
+
+📸: a subset of the volunteers :)
+
+Thank you all for making FSTTCS a wonderful experience!
+
 > [!INFO]- About the Volunteer Program
 > 
 > We are delighted to announce a volunteer program for FSTTCS 2024. We invite prospective student and postdoc participants to apply for our volunteer program. 
