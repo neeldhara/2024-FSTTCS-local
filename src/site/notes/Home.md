@@ -9,11 +9,11 @@
 
 This is the local information page for [FSTTCS 2024](https://www.fsttcs.org.in/2024/), which will be hosted at [IIT Gandhinagar](https://www.iitgn.ac.in) between December 16–18, 2024. On this page, you will find more information about local arrangements and important announcements. 
 
-> [!warning] Join FSTTCS Virtually!
+> [!warning] FSTTCS is now over
 > 
-> If you missed registering for FSTTCS at early bird rates or traveling to attend is not feasible, note that we have an exciting remote experience planned for our online attendees. Further, attending online is free of cost! Join our community and sign up to be reminded [[Online\|here]]. 
+> Thank you for joining us at FSTTCS, in-person or online! The conference was a delight, and we are now excited for the next edition at BITS Goa.
 > 
-> If you are still looking to participate in person and haven't registered yet: please note that registration at regular rates will remain open until 13th December *midnight IST*... please sign up sooner than later!
+> Meanwhile, you can find some [[Memories\|memories]] of the 2024 edition here, you can share your [[Feedback\|feedback]], and 
 
 > [!globe] Attending in person?
 > 
